@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NovaCore - Landing Page</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="logo">NovaCore</div>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section id="home" class="hero">
+    <div class="hero-content">
+      <h1>Welcome to NovaCore</h1>
+      <p>We bring modern solutions with a creative touch.  
+      Your journey to something extraordinary starts here.</p>
+      <a href="#features" class="btn">Get Started</a>
+    </div>
+  </section>
+
+  <!-- Features Section -->
+<section class="features" id="features">
+  <h2>Features</h2>
+  <div class="features-container">
+    <div class="feature-card">
+      <h3>⚡ Fast Performance</h3>
+      <p>Optimized design that loads quickly and ensures smooth navigation across all devices.</p>
+    </div>
+    <div class="feature-card">
+      <h3>📱 Responsive Design</h3>
+      <p>Looks perfect on desktops, tablets, and smartphones with a fully adaptive layout.</p>
+    </div>
+    <div class="feature-card">
+      <h3>🎨 Modern UI</h3>
+      <p>Clean, professional, and aesthetic interface with pastel-inspired color themes.</p>
+    </div>
+    <div class="feature-card">
+      <h3>🔒 Secure</h3>
+      <p>Built with best practices to ensure data safety, reliability, and trust.</p>
+    </div>
+  </div>
+</section>
+
+  <!-- About Section -->
+  <section id="about" class="about">
+  <div class="about-box">
+    <h2>About NovaCore</h2>
+    <p>
+      At NovaCore, we believe in creating modern, innovative, and user-friendly web solutions. 
+      Our mission is to simplify technology for everyone while keeping design professional and elegant. 
+      Whether you’re building a personal portfolio or a business website, NovaCore is designed to impress.
+    </p>
+    <p>
+      Whether you're looking for innovative digital services or a partner to help bring your vision to life, 
+      we are here to help you succeed.
+    </p>
+  </div>
+</section>
+
+  <!-- Contact Section -->
+<section class="contact" id="contact">
+  <h2>Contact</h2>
+  <p>Feel free to reach out through any of the platforms below:</p>
+  <div class="contact-container">
+    
+    <a href="mailto:niharikag404@example.com" target="_blank" class="contact-link">
+      📧 niharikag404@example.com
+    </a>
+    
+    <a href="tel:+919686058XXX" class="contact-link">
+      📱 +91 9686058XXX
+    </a>
+    
+    <a href="https://www.linkedin.com/in/niharika25g" target="_blank" class="contact-link">
+      🔗 LinkedIn
+    </a>
+    
+    <a href="https://github.com/Niharika25g" target="_blank" class="contact-link">
+      💻 GitHub
+    </a>
+
+  </div>
+</section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 NovaCore. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
